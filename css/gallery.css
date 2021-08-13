@@ -1,0 +1,32 @@
+.headertitle {
+    margin-top: 40px;
+    font-size: 40px;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.pics {
+    margin-left: 120px;
+}
+
+.box {
+    display: block;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.box img {
+    width: 100%;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.box img:hover {
+    transform: scale(2, 2);
+    transition: 2s transform;
+}

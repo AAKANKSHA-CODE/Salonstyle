@@ -1,0 +1,32 @@
+.content {
+    /* margin: auto; */
+    margin-top: -30px;
+    margin-bottom: 40px;
+    margin-left: 250px;
+    margin-right: 40px;
+    background: rgba(0, 0, 0, 0.7);
+    height: 80vh;
+    width: 80%;
+    /* margin: auto;
+    /* padding-top: 5px; */
+}
+
+p {
+    padding: 2px 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Cookie', cursive;
+    color: silver;
+}
+
+h1 {
+    padding: 2px 20px;
+    margin-left: 10px;
+    margin-top: 70px;
+    /* background-color: silver; */
+    color: red;
+}
